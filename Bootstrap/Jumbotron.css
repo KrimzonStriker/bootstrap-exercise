@@ -1,0 +1,34 @@
+#jumbotron {
+background-image: url(http://all4desktop.com/data_images/original/4238051-background.jpg);
+color: #ffd633;
+}
+
+#one {
+    margin: auto;
+    width: 60%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+
+#two {
+    margin: auto;
+    width: 60%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+
+#three {
+    margin: auto;
+    width: 60%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+}    
